@@ -1,15 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: quick list on Eco -
+author: scTrum
+email: chan.truman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  A quick refresher and reference on sustainability goals and practices - 2018.
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @feelDoGood
+github_username:  @sctru
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
