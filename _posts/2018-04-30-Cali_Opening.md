@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my base Cali"
+title: "Welcome to homebase Cali"
 date: 2018-04-30
 ---
 
