@@ -4,8 +4,8 @@ email: chan.truman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A quick refresher and reference on sustainability goals and practices - 2018.
 # social links
-twitter_username: "@FeelDoGood"
-github_username:  "@sctru"
+twitter_username: FeelDoGood
+github_username:  sctru
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
