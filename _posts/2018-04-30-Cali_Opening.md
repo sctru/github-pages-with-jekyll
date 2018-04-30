@@ -1,3 +1,8 @@
+---
+title: "Welcome to my base Cali"
+date: 2018-04-30
+---
+
 Writing about the journey to eco friendly practices. Starting with a home in the Orange County, California area.
 Hoping the writing process helps to distill a little wisdom from my experiences on this path.
 
